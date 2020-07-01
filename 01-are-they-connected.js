@@ -53,7 +53,7 @@
  * @param {string} startName - The name (node) at which you'll start your
  * search.
  *
- * @param {sting} endName - The name (node) you're trying to find when starting
+ * @param {string} endName - The name (node) you're trying to find when starting
  * your search from startName.
  */
 
